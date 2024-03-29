@@ -42,5 +42,4 @@ Site construido para a o segundo semestre de 2023 da faculdade SPTECH.
 
 #
 
-- 📌 Em Andamento.
 - 🔗 Sem link no momento
